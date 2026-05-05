@@ -22,7 +22,7 @@ This script performs a periodic check (every 60 seconds) on a specific Steam Sto
 Bash
 
 ```
-   python steam_check.py
+   python steamcontroller_check.py
 ```
 
 #### Technical Details
